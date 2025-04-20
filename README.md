@@ -48,7 +48,7 @@ npm install
 3. Start the app:
 
 ```bash
-node app.js
+npx nodemon app.js
 ```
 4. Open http://localhost:3000 in your browser. You can open multiple tabs or devices to see real-time updates.
 
